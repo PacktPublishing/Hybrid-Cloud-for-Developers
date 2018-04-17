@@ -1,0 +1,7 @@
+{
+"Resources" : {
+    "packtpubbucket" : {
+       "Type" : "AWS::S3::Bucket"
+       }
+    }
+}

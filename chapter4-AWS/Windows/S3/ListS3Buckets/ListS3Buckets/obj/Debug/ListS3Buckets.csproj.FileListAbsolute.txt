@@ -1,0 +1,18 @@
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\ListS3Buckets\ListS3Buckets\bin\Debug\ListS3Buckets.exe.config
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\ListS3Buckets\ListS3Buckets\bin\Debug\ListS3Buckets.exe
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\ListS3Buckets\ListS3Buckets\bin\Debug\ListS3Buckets.pdb
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\ListS3Buckets\ListS3Buckets\bin\Debug\AWSSDK.Core.dll
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\ListS3Buckets\ListS3Buckets\bin\Debug\AWSSDK.S3.dll
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\ListS3Buckets\ListS3Buckets\bin\Debug\AWSSDK.Core.xml
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\ListS3Buckets\ListS3Buckets\bin\Debug\AWSSDK.S3.xml
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\ListS3Buckets\ListS3Buckets\obj\Debug\ListS3Buckets.exe
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\ListS3Buckets\ListS3Buckets\obj\Debug\ListS3Buckets.pdb
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\S3\ListS3Buckets\ListS3Buckets\bin\Debug\ListS3Buckets.exe.config
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\S3\ListS3Buckets\ListS3Buckets\obj\Debug\ListS3Buckets.exe
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\S3\ListS3Buckets\ListS3Buckets\obj\Debug\ListS3Buckets.pdb
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\S3\ListS3Buckets\ListS3Buckets\bin\Debug\ListS3Buckets.exe
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\S3\ListS3Buckets\ListS3Buckets\bin\Debug\ListS3Buckets.pdb
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\S3\ListS3Buckets\ListS3Buckets\bin\Debug\AWSSDK.Core.dll
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\S3\ListS3Buckets\ListS3Buckets\bin\Debug\AWSSDK.S3.dll
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\S3\ListS3Buckets\ListS3Buckets\bin\Debug\AWSSDK.Core.xml
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\S3\ListS3Buckets\ListS3Buckets\bin\Debug\AWSSDK.S3.xml

@@ -1,0 +1,19 @@
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\SNS\SNSOperations\SNSOperations\bin\Debug\SNSOperations.exe.config
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\SNS\SNSOperations\SNSOperations\obj\Debug\SNSOperations.csprojResolveAssemblyReference.cache
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\SNS\SNSOperations\SNSOperations\bin\Debug\SNSOperations.exe
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\SNS\SNSOperations\SNSOperations\bin\Debug\SNSOperations.pdb
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\SNS\SNSOperations\SNSOperations\bin\Debug\AWSSDK.Core.dll
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\SNS\SNSOperations\SNSOperations\bin\Debug\AWSSDK.SimpleNotificationService.dll
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\SNS\SNSOperations\SNSOperations\bin\Debug\AWSSDK.Core.xml
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\SNS\SNSOperations\SNSOperations\bin\Debug\AWSSDK.SimpleNotificationService.xml
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\SNS\SNSOperations\SNSOperations\obj\Debug\SNSOperations.exe
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\SNS\SNSOperations\SNSOperations\obj\Debug\SNSOperations.pdb
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\SNS\SNSOperations\SNSOperations\bin\Debug\SNSOperations.exe.config
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\SNS\SNSOperations\SNSOperations\obj\Debug\SNSOperations.exe
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\SNS\SNSOperations\SNSOperations\obj\Debug\SNSOperations.pdb
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\SNS\SNSOperations\SNSOperations\bin\Debug\SNSOperations.exe
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\SNS\SNSOperations\SNSOperations\bin\Debug\SNSOperations.pdb
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\SNS\SNSOperations\SNSOperations\bin\Debug\AWSSDK.Core.dll
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\SNS\SNSOperations\SNSOperations\bin\Debug\AWSSDK.SimpleNotificationService.dll
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\SNS\SNSOperations\SNSOperations\bin\Debug\AWSSDK.Core.xml
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\SNS\SNSOperations\SNSOperations\bin\Debug\AWSSDK.SimpleNotificationService.xml

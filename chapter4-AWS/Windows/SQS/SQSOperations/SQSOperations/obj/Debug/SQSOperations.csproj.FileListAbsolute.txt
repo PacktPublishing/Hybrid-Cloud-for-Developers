@@ -1,0 +1,19 @@
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\SQS\SQSOperations\SQSOperations\bin\Debug\SQSOperations.exe.config
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\SQS\SQSOperations\SQSOperations\bin\Debug\SQSOperations.exe
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\SQS\SQSOperations\SQSOperations\bin\Debug\SQSOperations.pdb
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\SQS\SQSOperations\SQSOperations\bin\Debug\AWSSDK.Core.dll
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\SQS\SQSOperations\SQSOperations\bin\Debug\AWSSDK.SQS.dll
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\SQS\SQSOperations\SQSOperations\bin\Debug\AWSSDK.Core.xml
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\SQS\SQSOperations\SQSOperations\bin\Debug\AWSSDK.SQS.xml
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\SQS\SQSOperations\SQSOperations\obj\Debug\SQSOperations.csprojResolveAssemblyReference.cache
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\SQS\SQSOperations\SQSOperations\obj\Debug\SQSOperations.exe
+C:\Users\Manoj\Desktop\Book Project\Code\Chapter 5 - AWS\Windows\SQS\SQSOperations\SQSOperations\obj\Debug\SQSOperations.pdb
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\SQS\SQSOperations\SQSOperations\bin\Debug\SQSOperations.exe.config
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\SQS\SQSOperations\SQSOperations\obj\Debug\SQSOperations.exe
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\SQS\SQSOperations\SQSOperations\obj\Debug\SQSOperations.pdb
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\SQS\SQSOperations\SQSOperations\bin\Debug\SQSOperations.exe
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\SQS\SQSOperations\SQSOperations\bin\Debug\SQSOperations.pdb
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\SQS\SQSOperations\SQSOperations\bin\Debug\AWSSDK.Core.dll
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\SQS\SQSOperations\SQSOperations\bin\Debug\AWSSDK.SQS.dll
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\SQS\SQSOperations\SQSOperations\bin\Debug\AWSSDK.Core.xml
+C:\Users\Manoj\Desktop\Code\Chapter 4 - Developing AWS Applications\Windows\SQS\SQSOperations\SQSOperations\bin\Debug\AWSSDK.SQS.xml
