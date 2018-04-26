@@ -29,7 +29,7 @@ To try out the code in this book, the reader must have a PC with standard config
 with basic knowledge of running C# or Python programs.
 
 ## Code in action
-Visit the following link to check out the code in action: https://goo. gl/xmbUzE
+Visit the following link to check out the code in action: https://goo.gl/xmbUzE
 
 ## Related Products
 * [Google Cloud Platform for Architects](https://www.packtpub.com/virtualization-and-cloud/google-cloud-platform-architects?utm_source=github&utm_medium=repository&utm_campaign=9781788834308)
